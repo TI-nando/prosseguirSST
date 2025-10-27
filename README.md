@@ -164,15 +164,6 @@ prosseguir-landing-page/
 - ✅ Open Graph tags
 - ✅ Schema markup
 
-## 📞 Contato
-
-**Prosseguir Treinamentos e Consultoria Ocupacional**
-
-- 📧 Email: contato@prosseguirsst.com.br
-- 📱 WhatsApp: (11) 99999-9999
-- 📍 Endereço: São Paulo, SP
-- 🌐 Instagram: [@prosseguirsst](https://instagram.com/prosseguirsst)
-
 ## 📄 Licença
 
 Este projeto foi desenvolvido para a Prosseguir SST. Todos os direitos reservados.
